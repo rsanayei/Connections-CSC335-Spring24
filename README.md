@@ -3,6 +3,32 @@
 ## Project Overview
 For the final project of our class, we are tasking teams to recreate and enhance popular games or applications. In this project, we will focus on recreating [the Connections game](https://www.nytimes.com/games/connections), a popular word association puzzle game by The New York Times, using Java and JavaFX. This project will stretch over five weeks and will require teams of four students to collaborate on designing, developing, and testing a robust application that not only mimics the gameplay of Connections but also introduces new features to enhance player experience.
 
+# Game Dynamics of Connections
+
+Connections is a word association puzzle game where players aim to connect words through shared associations. The challenge lies in grouping words into categories based on common characteristics or relationships.
+
+## Gameplay Images
+
+Here are two images depicting the basic layout and dynamics of the game:
+
+![Connections Example 1](connections-ex0.png)  
+*Example of the Connections game interface showing the initial ungrouped words.*
+
+![Connections Example 2](connections-ex1.jpeg)  
+*Example showcasing the endgame state.*
+
+## How to Play
+
+The game presents players with a grid of words. The objective is to sort these words into groups based on a common theme or attribute. For instance, words might be grouped because they are all related to time, they could be names of scientists, or they could represent different types of measurement units.
+
+1. **Grouping Words:** Players drag and drop words to form groups.
+2. **Hints and Shuffles:** Players can use hints or shuffle the words if they get stuck.
+3. **Mistakes:** There is a limited number of mistakes allowed before the game ends.
+4. **Submission:** Once all words are grouped correctly, the player can submit their solution.
+
+Players must think critically and make connections between seemingly disparate words to succeed. It's a game that tests both vocabulary and lateral thinking skills.
+
+
 ## Minimum Requirements
 
 ### Core Gameplay
