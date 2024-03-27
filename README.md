@@ -21,7 +21,7 @@ Here are two images depicting the basic layout and dynamics of the game:
 
 The game presents players with a grid of words. The objective is to sort these words into groups based on a common theme or attribute. For instance, words might be grouped because they are all related to time, they could be names of scientists, or they could represent different types of measurement units.
 
-1. **Grouping Words:** Players drag and drop words to form groups.
+1. **Grouping Words:** Players select words to form groups.
 2. **Hints and Shuffles:** Players can use hints or shuffle the words if they get stuck.
 3. **Mistakes:** There is a limited number of mistakes allowed before the game ends.
 4. **Submission:** Once all words are grouped correctly, the player can submit their solution.
@@ -38,7 +38,6 @@ Players must think critically and make connections between seemingly disparate w
 ### Game Modes
 - **Classic Mode:** Mimic the original gameplay.
 - **Time Trial Mode:** Players race against the clock to make as many connections as possible.
-- **Challenge Mode:** Players face pre-set puzzles with increased difficulty.
 
 ### User Profiles
 - Allow users to create customizable profiles where their game progress and preferences can be saved.
@@ -64,6 +63,8 @@ Players must think critically and make connections between seemingly disparate w
 4. **Voice Commands:** Integrate voice recognition for a hands-free gaming experience.
 5. **Story Mode:** Introduce a narrative element where players progress through levels with a storyline.
 6. **Educational Mode:** Implement a mode focused on learning, using connections to teach vocabulary, historical events, etc.
+7. **Challenge Mode:** Players face pre-set puzzles with increased difficulty.
+
 
 ## Deliverables
 
